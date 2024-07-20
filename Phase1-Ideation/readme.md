@@ -9,6 +9,8 @@ Hackathon: Myntra Hackerramp 'We for She' 🚀
 ## Objective:
 The objective of this project is to enhance user engagement on the Myntra platform by creating a global collaboration portal for designers. This portal will allow designers to upload their trendy clothing designs, which can be reviewed, approved, and sold directly to consumers through Myntra. Additionally, designers can opt for a collaboration model where Myntra handles production and sales, providing them with a percentage of the revenue.
 
+![image](https://github.com/user-attachments/assets/44090bcc-ce36-41ca-8c37-f68c850eed26)
+
 ## Project Structure
 1. Designer Dashboard Creation 🛠️
 Feature: User-friendly dashboard for designers.
