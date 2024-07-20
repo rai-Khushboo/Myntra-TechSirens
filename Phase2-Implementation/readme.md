@@ -3,6 +3,8 @@
 ## Project Description
 Join the Myntra Designer Collaboration Platform, where designers and brands globally showcase their latest creations. Empowering creativity and authenticity, our platform connects emerging talents with Gen-Z consumers, offering a curated selection of fashion-forward trends and styles.
 
+![5ba72ca30694513a2dd71a8c417d4f96751dec11 1](https://github.com/user-attachments/assets/913865a3-9c25-4b89-8049-fde05a51d5f8)
+
 ## Key Steps
 🌟 **Step 1: Designer Registration**  
 Designers register securely, providing their credentials and portfolio links for review. This ensures authenticity and quality control.
