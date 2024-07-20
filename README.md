@@ -22,7 +22,7 @@ Boost in engagement among Gen-Z users by introducing fresh and diverse designs.
 
 Support for emerging designers, providing them a platform to reach a larger audience.
 
-## Phase 2: Implementation
+## Phase 2: Implementation 📊
 *The second phase involves the implementation of the proposed solution from the ideation phase. The platform is designed to empower emerging designers and brands, providing them with a space to showcase and sell their designs on Myntra.*
 
 ## Implementation Steps:
