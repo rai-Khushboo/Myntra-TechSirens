@@ -25,6 +25,10 @@ We empower creators and new brands by providing them with a prominent platform t
 ### 3. Creating Vast User Engagement 📈
 Engaging Gen-Z users through our collaboration platform enriches their shopping experience. By curating content that resonates with their interests and values, we foster community interaction and loyalty, establishing Myntra as their preferred destination for fashion and lifestyle trends.
 
+## Website Workflow
+For detailed information on the website workflow, please refer to [the workflow document](https://github.com/rai-Khushboo/Myntra-TechSirens/blob/main/Phase2-Implementation/website-workflow/workflow.md).
+
+
 ## Contributors 💡
 **Get to know the passionate team behind the Myntra Designer Collaboration Platform:**
 - Khushboo Kumari 🚀
