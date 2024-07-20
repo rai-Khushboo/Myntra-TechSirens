@@ -1,4 +1,5 @@
 # Myntra-TechSirens
+![WhatsApp Image 2024-07-20 at 15 20 47_0a573f69](https://github.com/user-attachments/assets/6d6bf375-5057-4c97-a6f7-3137f8f014c0)
 
 ## Phase 1: Ideation 🎤
 *Project Title: Global Designer Collaboration Platform*
