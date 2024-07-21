@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign In - Indian Brands Portal</title>
+    <link rel="stylesheet" href="signin.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="upload.html">Upload Design</a></li>
+                <li><a href="signin.html">Sign In</a></li>
+                <li><a href="signup.html">Sign Up</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="logout.html">Logout</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="signin">
+        <div class="intro">
+            <h2><u>Young Indian Brands Portal</u></h2>
+            <div>
+                <h3>Welcome back! Please sign in to continue.</h3>
+            </div>
+        </div>
+        <div class="signin-container">
+            <h2>Sign In</h2>
+            <form action="signin_process.php" method="post">
+                <label for="brandName">Brand Name:</label>
+                <input type="text" id="brandName" name="brandName" required>
+                
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" required>
+                
+                <button type="submit">Sign In</button>
+            </form>
+            <div class="divider">
+                <span>OR</span>
+            </div>
+            <button class="google-signin">Sign In with Google</button>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Indian Brands Portal. All rights reserved.</p>
+    </footer>
+</body>
+</html>

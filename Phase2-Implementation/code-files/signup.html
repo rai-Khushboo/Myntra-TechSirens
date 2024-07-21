@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up - Indian Brands Portal</title>
+    <link rel="stylesheet" href="signup.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="upload.html">Upload Design</a></li>
+                <li><a href="signin.html">Sign In</a></li>
+                <li><a href="signup.html">Sign Up</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="logout.html">Logout</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="signup">
+        <div class="intro">
+            <h2><u>Young Indian Brands Portal</u></h2>
+            <div>
+                <h3>Do you have new Designs...Cool , Go ahead.</h3>
+            </div>
+        </div>
+        <div class="signup-container">
+            <h2>Sign Up</h2>
+            <form id="signupForm" action="signup_process.php" method="post" enctype="multipart/form-data">
+                <label for="photoUpload">Upload Your Photo:</label>
+                <input type="file" id="photoUpload" name="photoUpload" accept="image/*" required onchange="previewImage(event)">
+                <img id="imagePreview" src="" alt="Your Photo">
+                
+                <label for="brandName">Brand Name:</label>
+                <input type="text" id="brandName" name="brandName" required>
+                
+                <label for="designerName">Your Name:</label>
+                <input type="text" id="designerName" name="designerName" required>
+                
+                <label for="govCode">Government Verification Code:</label>
+                <input type="text" id="govCode" name="govCode" required>
+                
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                
+                <label for="city">City:</label>
+                <input type="text" id="city" name="city" required>
+                
+                <label for="pincode">Pincode:</label>
+                <input type="text" id="pincode" name="pincode" required>
+                
+                <label for="mobileNo">Mobile Number:</label>
+                <input type="tel" id="mobileNo" name="mobileNo" required>
+                
+                <button type="submit">Create Account</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Indian Brands Portal. All rights reserved.</p>
+    </footer>
+
+    <!-- Modal -->
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <p style="color: green;">Your account has been created successfully!</p>
+        </div>
+    </div>
+
+    <script src="signup.js"></script>
+</body>
+</html>
